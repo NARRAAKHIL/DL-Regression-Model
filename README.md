@@ -131,13 +131,13 @@ plt.show()
 ```
 
 ### Dataset Information
-<img width="1058" height="672" alt="Screenshot 2025-09-08 205656" src="https://github.com/user-attachments/assets/97a21829-2bad-4934-ae7e-c2f6e45b9304" />
 
+<img width="1017" height="671" alt="Screenshot 2025-09-08 210705" src="https://github.com/user-attachments/assets/53ffb2ed-bb47-46ef-a814-0c9fb9104cc3" />
 
 ### OUTPUT
 ### Training Loss Vs Iteration Plot
+<img width="745" height="547" alt="Screenshot 2025-09-08 210741" src="https://github.com/user-attachments/assets/21c46466-ffa9-43bb-8652-19b033b3ea0c" />
 
-<img width="853" height="548" alt="Screenshot 2025-09-08 205715" src="https://github.com/user-attachments/assets/41c3c781-60d4-4195-9384-e6eae214d82a" />
 
 ### Best Fit line plot
 
